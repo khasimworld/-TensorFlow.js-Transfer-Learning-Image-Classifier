@@ -1,6 +1,6 @@
 # TensorFlow.js-Transfer Learning Image Classifier
 
-Classifying objects deteced by the webcam
+Classifying the objects deteced by the webcam
 
 The project Tools:
 1) Tesnsorflow.js Library 
