@@ -1,0 +1,27 @@
+*{
+  margin:0 ;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+
+
+body
+{
+    background-color: black; /* The page background will be black */
+    color: white; /* The page text will be white */
+}
+
+
+h1 {
+  background-color: #f2bf07;   /*Yellowish */
+}
+
+h1{
+  padding: 10px;
+  border-bottom: 0px solid #5D6063;
+  margin-top: 0px;
+  margin-bottom: 40px;
+}
+
